@@ -1,0 +1,1168 @@
+{
+    "collaborative": false,
+    "description": null,
+    "external_urls": {
+        "spotify": "http://open.spotify.com/user/redcomet79/playlist/503HzKH74uYiK6TJmU868m"
+    },
+    "followers": {
+        "href": null,
+        "total": 0
+    },
+    "href": "https://api.spotify.com/v1/users/redcomet79/playlists/503HzKH74uYiK6TJmU868m",
+    "id": "503HzKH74uYiK6TJmU868m",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://mosaic.scdn.co/640/efb892140bfd70b05db03acc34c90e52268ed0ad6e5d825b568ce7f1441f6c8c9e19b531202acdf9a3bdaba00d2d600ec774f4f14adb55831bc454192ecc394a642cbc42b65910e226ba3a173f8297e0",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://mosaic.scdn.co/300/efb892140bfd70b05db03acc34c90e52268ed0ad6e5d825b568ce7f1441f6c8c9e19b531202acdf9a3bdaba00d2d600ec774f4f14adb55831bc454192ecc394a642cbc42b65910e226ba3a173f8297e0",
+            "width": 300
+        },
+        {
+            "height": 60,
+            "url": "https://mosaic.scdn.co/60/efb892140bfd70b05db03acc34c90e52268ed0ad6e5d825b568ce7f1441f6c8c9e19b531202acdf9a3bdaba00d2d600ec774f4f14adb55831bc454192ecc394a642cbc42b65910e226ba3a173f8297e0",
+            "width": 60
+        }
+    ],
+    "name": "bollywood",
+    "owner": {
+        "external_urls": {
+            "spotify": "http://open.spotify.com/user/redcomet79"
+        },
+        "href": "https://api.spotify.com/v1/users/redcomet79",
+        "id": "redcomet79",
+        "type": "user",
+        "uri": "spotify:user:redcomet79"
+    },
+    "public": true,
+    "snapshot_id": "TEVYweY8rycwsxoyEyoGBtFUEJB73NLDpMLYRWtm/J8/q65uzmtR4p9JBqZqVFVr",
+    "tracks": {
+        "href": "https://api.spotify.com/v1/users/redcomet79/playlists/503HzKH74uYiK6TJmU868m/tracks?offset=0&limit=100",
+        "items": [
+            {
+                "added_at": "2015-12-22T03:55:31Z",
+                "added_by": {
+                    "external_urls": {
+                        "spotify": "http://open.spotify.com/user/redcomet79"
+                    },
+                    "href": "https://api.spotify.com/v1/users/redcomet79",
+                    "id": "redcomet79",
+                    "type": "user",
+                    "uri": "spotify:user:redcomet79"
+                },
+                "is_local": false,
+                "track": {
+                    "album": {
+                        "album_type": "album",
+                        "available_markets": [
+                            "AD",
+                            "AR",
+                            "AT",
+                            "AU",
+                            "BE",
+                            "BG",
+                            "BO",
+                            "BR",
+                            "CA",
+                            "CH",
+                            "CL",
+                            "CO",
+                            "CR",
+                            "CY",
+                            "CZ",
+                            "DE",
+                            "DK",
+                            "DO",
+                            "EC",
+                            "EE",
+                            "ES",
+                            "FI",
+                            "FR",
+                            "GB",
+                            "GR",
+                            "GT",
+                            "HK",
+                            "HN",
+                            "HU",
+                            "IE",
+                            "IS",
+                            "IT",
+                            "LI",
+                            "LT",
+                            "LU",
+                            "LV",
+                            "MC",
+                            "MT",
+                            "MX",
+                            "MY",
+                            "NI",
+                            "NL",
+                            "NO",
+                            "NZ",
+                            "PA",
+                            "PE",
+                            "PH",
+                            "PL",
+                            "PT",
+                            "PY",
+                            "RO",
+                            "SE",
+                            "SG",
+                            "SI",
+                            "SK",
+                            "SV",
+                            "TR",
+                            "TW",
+                            "US",
+                            "UY"
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/1fkasXpHNnNfgs3iByPoQc"
+                        },
+                        "href": "https://api.spotify.com/v1/albums/1fkasXpHNnNfgs3iByPoQc",
+                        "id": "1fkasXpHNnNfgs3iByPoQc",
+                        "images": [
+                            {
+                                "height": 640,
+                                "url": "https://i.scdn.co/image/efb892140bfd70b05db03acc34c90e52268ed0ad",
+                                "width": 640
+                            },
+                            {
+                                "height": 300,
+                                "url": "https://i.scdn.co/image/7b649aadc2d0293cd845f5b03f2d29f22889a7bf",
+                                "width": 300
+                            },
+                            {
+                                "height": 64,
+                                "url": "https://i.scdn.co/image/96c2028b9d961d9542ed09812aa778aae48c58ca",
+                                "width": 64
+                            }
+                        ],
+                        "name": "Bajirao Mastani (Original Motion Picture Soundtrack)",
+                        "type": "album",
+                        "uri": "spotify:album:1fkasXpHNnNfgs3iByPoQc"
+                    },
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/6CXEwIaXYfVJ84biCxqc9k",
+                            "id": "6CXEwIaXYfVJ84biCxqc9k",
+                            "name": "Vishal Dadlani",
+                            "type": "artist",
+                            "uri": "spotify:artist:6CXEwIaXYfVJ84biCxqc9k"
+                        }
+                    ],
+                    "available_markets": [
+                        "AD",
+                        "AR",
+                        "AT",
+                        "AU",
+                        "BE",
+                        "BG",
+                        "BO",
+                        "BR",
+                        "CA",
+                        "CH",
+                        "CL",
+                        "CO",
+                        "CR",
+                        "CY",
+                        "CZ",
+                        "DE",
+                        "DK",
+                        "DO",
+                        "EC",
+                        "EE",
+                        "ES",
+                        "FI",
+                        "FR",
+                        "GB",
+                        "GR",
+                        "GT",
+                        "HK",
+                        "HN",
+                        "HU",
+                        "IE",
+                        "IS",
+                        "IT",
+                        "LI",
+                        "LT",
+                        "LU",
+                        "LV",
+                        "MC",
+                        "MT",
+                        "MX",
+                        "MY",
+                        "NI",
+                        "NL",
+                        "NO",
+                        "NZ",
+                        "PA",
+                        "PE",
+                        "PH",
+                        "PL",
+                        "PT",
+                        "PY",
+                        "RO",
+                        "SE",
+                        "SG",
+                        "SI",
+                        "SK",
+                        "SV",
+                        "TR",
+                        "TW",
+                        "US",
+                        "UY"
+                    ],
+                    "disc_number": 1,
+                    "duration_ms": 244047,
+                    "explicit": false,
+                    "external_ids": {
+                        "isrc": "GBSGZ1500537"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/7EvAlx0lOLbZgCKH50wnUU"
+                    },
+                    "href": "https://api.spotify.com/v1/tracks/7EvAlx0lOLbZgCKH50wnUU",
+                    "id": "7EvAlx0lOLbZgCKH50wnUU",
+                    "name": "Malhari",
+                    "popularity": 48,
+                    "preview_url": "https://p.scdn.co/mp3-preview/d48ef52caf061ed08b46f25f62940bbc571a3eb3",
+                    "track_number": 3,
+                    "type": "track",
+                    "uri": "spotify:track:7EvAlx0lOLbZgCKH50wnUU"
+                }
+            },
+            {
+                "added_at": "2015-12-22T03:55:41Z",
+                "added_by": {
+                    "external_urls": {
+                        "spotify": "http://open.spotify.com/user/redcomet79"
+                    },
+                    "href": "https://api.spotify.com/v1/users/redcomet79",
+                    "id": "redcomet79",
+                    "type": "user",
+                    "uri": "spotify:user:redcomet79"
+                },
+                "is_local": false,
+                "track": {
+                    "album": {
+                        "album_type": "album",
+                        "available_markets": [
+                            "AD",
+                            "AR",
+                            "AT",
+                            "AU",
+                            "BE",
+                            "BG",
+                            "BO",
+                            "BR",
+                            "CA",
+                            "CH",
+                            "CL",
+                            "CO",
+                            "CR",
+                            "CY",
+                            "CZ",
+                            "DE",
+                            "DK",
+                            "DO",
+                            "EC",
+                            "EE",
+                            "ES",
+                            "FI",
+                            "FR",
+                            "GB",
+                            "GR",
+                            "GT",
+                            "HK",
+                            "HN",
+                            "HU",
+                            "IE",
+                            "IS",
+                            "IT",
+                            "LI",
+                            "LT",
+                            "LU",
+                            "LV",
+                            "MC",
+                            "MT",
+                            "MX",
+                            "MY",
+                            "NI",
+                            "NL",
+                            "NO",
+                            "NZ",
+                            "PA",
+                            "PE",
+                            "PH",
+                            "PL",
+                            "PT",
+                            "PY",
+                            "RO",
+                            "SE",
+                            "SG",
+                            "SI",
+                            "SK",
+                            "SV",
+                            "TR",
+                            "TW",
+                            "US",
+                            "UY"
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/1fkasXpHNnNfgs3iByPoQc"
+                        },
+                        "href": "https://api.spotify.com/v1/albums/1fkasXpHNnNfgs3iByPoQc",
+                        "id": "1fkasXpHNnNfgs3iByPoQc",
+                        "images": [
+                            {
+                                "height": 640,
+                                "url": "https://i.scdn.co/image/efb892140bfd70b05db03acc34c90e52268ed0ad",
+                                "width": 640
+                            },
+                            {
+                                "height": 300,
+                                "url": "https://i.scdn.co/image/7b649aadc2d0293cd845f5b03f2d29f22889a7bf",
+                                "width": 300
+                            },
+                            {
+                                "height": 64,
+                                "url": "https://i.scdn.co/image/96c2028b9d961d9542ed09812aa778aae48c58ca",
+                                "width": 64
+                            }
+                        ],
+                        "name": "Bajirao Mastani (Original Motion Picture Soundtrack)",
+                        "type": "album",
+                        "uri": "spotify:album:1fkasXpHNnNfgs3iByPoQc"
+                    },
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/0oOet2f43PA68X5RxKobEy",
+                            "id": "0oOet2f43PA68X5RxKobEy",
+                            "name": "Shreya Ghoshal",
+                            "type": "artist",
+                            "uri": "spotify:artist:0oOet2f43PA68X5RxKobEy"
+                        },
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/59fYphinaqBfGBtrQ4p9Hv"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/59fYphinaqBfGBtrQ4p9Hv",
+                            "id": "59fYphinaqBfGBtrQ4p9Hv",
+                            "name": "Ganesh Chandanshive",
+                            "type": "artist",
+                            "uri": "spotify:artist:59fYphinaqBfGBtrQ4p9Hv"
+                        },
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/2yxX2XZyWVBpVX3pNaG0UF"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/2yxX2XZyWVBpVX3pNaG0UF",
+                            "id": "2yxX2XZyWVBpVX3pNaG0UF",
+                            "name": "Mujtaba Aziz Naza",
+                            "type": "artist",
+                            "uri": "spotify:artist:2yxX2XZyWVBpVX3pNaG0UF"
+                        },
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4UpUfgU9oyAUs5v1LvsF2r"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/4UpUfgU9oyAUs5v1LvsF2r",
+                            "id": "4UpUfgU9oyAUs5v1LvsF2r",
+                            "name": "Shahdab Faridi",
+                            "type": "artist",
+                            "uri": "spotify:artist:4UpUfgU9oyAUs5v1LvsF2r"
+                        },
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/3ngb6Q67HoCvgkeR2tIQJZ"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/3ngb6Q67HoCvgkeR2tIQJZ",
+                            "id": "3ngb6Q67HoCvgkeR2tIQJZ",
+                            "name": "Altmash Faridi",
+                            "type": "artist",
+                            "uri": "spotify:artist:3ngb6Q67HoCvgkeR2tIQJZ"
+                        },
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/2S7i3wOcMLQHH6DwcMHrG9"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/2S7i3wOcMLQHH6DwcMHrG9",
+                            "id": "2S7i3wOcMLQHH6DwcMHrG9",
+                            "name": "Farhan Sabri",
+                            "type": "artist",
+                            "uri": "spotify:artist:2S7i3wOcMLQHH6DwcMHrG9"
+                        }
+                    ],
+                    "available_markets": [
+                        "AD",
+                        "AR",
+                        "AT",
+                        "AU",
+                        "BE",
+                        "BG",
+                        "BO",
+                        "BR",
+                        "CA",
+                        "CH",
+                        "CL",
+                        "CO",
+                        "CR",
+                        "CY",
+                        "CZ",
+                        "DE",
+                        "DK",
+                        "DO",
+                        "EC",
+                        "EE",
+                        "ES",
+                        "FI",
+                        "FR",
+                        "GB",
+                        "GR",
+                        "GT",
+                        "HK",
+                        "HN",
+                        "HU",
+                        "IE",
+                        "IS",
+                        "IT",
+                        "LI",
+                        "LT",
+                        "LU",
+                        "LV",
+                        "MC",
+                        "MT",
+                        "MX",
+                        "MY",
+                        "NI",
+                        "NL",
+                        "NO",
+                        "NZ",
+                        "PA",
+                        "PE",
+                        "PH",
+                        "PL",
+                        "PT",
+                        "PY",
+                        "RO",
+                        "SE",
+                        "SG",
+                        "SI",
+                        "SK",
+                        "SV",
+                        "TR",
+                        "TW",
+                        "US",
+                        "UY"
+                    ],
+                    "disc_number": 1,
+                    "duration_ms": 340232,
+                    "explicit": false,
+                    "external_ids": {
+                        "isrc": "GBSGZ1500488"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/7IP72Pw6reOTDZrpLVtOFT"
+                    },
+                    "href": "https://api.spotify.com/v1/tracks/7IP72Pw6reOTDZrpLVtOFT",
+                    "id": "7IP72Pw6reOTDZrpLVtOFT",
+                    "name": "Deewani Mastani",
+                    "popularity": 50,
+                    "preview_url": "https://p.scdn.co/mp3-preview/3fcbd33cc3475101b602e93cdb0efce8aab8341b",
+                    "track_number": 1,
+                    "type": "track",
+                    "uri": "spotify:track:7IP72Pw6reOTDZrpLVtOFT"
+                }
+            },
+            {
+                "added_at": "2015-12-22T04:03:28Z",
+                "added_by": {
+                    "external_urls": {
+                        "spotify": "http://open.spotify.com/user/redcomet79"
+                    },
+                    "href": "https://api.spotify.com/v1/users/redcomet79",
+                    "id": "redcomet79",
+                    "type": "user",
+                    "uri": "spotify:user:redcomet79"
+                },
+                "is_local": false,
+                "track": {
+                    "album": {
+                        "album_type": "album",
+                        "available_markets": [
+                            "CA",
+                            "US"
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/7DMHBOZasKAboJFNNV7k4m"
+                        },
+                        "href": "https://api.spotify.com/v1/albums/7DMHBOZasKAboJFNNV7k4m",
+                        "id": "7DMHBOZasKAboJFNNV7k4m",
+                        "images": [
+                            {
+                                "height": 635,
+                                "url": "https://i.scdn.co/image/6e5d825b568ce7f1441f6c8c9e19b531202acdf9",
+                                "width": 640
+                            },
+                            {
+                                "height": 297,
+                                "url": "https://i.scdn.co/image/31e8b49495a856ca8dc346788dd34c6fb6bb7a23",
+                                "width": 300
+                            },
+                            {
+                                "height": 63,
+                                "url": "https://i.scdn.co/image/e45b9eaba3c7a12f32537a43059ecea190f39541",
+                                "width": 64
+                            }
+                        ],
+                        "name": "Devdas - An Adaptation Of Sarat Chandra Chattopadhyay's \"Devdas\" (Ost.)",
+                        "type": "album",
+                        "uri": "spotify:album:7DMHBOZasKAboJFNNV7k4m"
+                    },
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/0oOet2f43PA68X5RxKobEy",
+                            "id": "0oOet2f43PA68X5RxKobEy",
+                            "name": "Shreya Ghoshal",
+                            "type": "artist",
+                            "uri": "spotify:artist:0oOet2f43PA68X5RxKobEy"
+                        }
+                    ],
+                    "available_markets": [
+                        "CA",
+                        "US"
+                    ],
+                    "disc_number": 1,
+                    "duration_ms": 240706,
+                    "explicit": false,
+                    "external_ids": {
+                        "isrc": "INP100300007"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/5n7KWx7UkcKJUB8GvJCYqj"
+                    },
+                    "href": "https://api.spotify.com/v1/tracks/5n7KWx7UkcKJUB8GvJCYqj",
+                    "id": "5n7KWx7UkcKJUB8GvJCYqj",
+                    "name": "Song: Silsila Ye Chahat Ka",
+                    "popularity": 29,
+                    "preview_url": "https://p.scdn.co/mp3-preview/e1fab15dc1773edb366d95682637887feb681a51",
+                    "track_number": 3,
+                    "type": "track",
+                    "uri": "spotify:track:5n7KWx7UkcKJUB8GvJCYqj"
+                }
+            },
+            {
+                "added_at": "2015-12-22T04:03:45Z",
+                "added_by": {
+                    "external_urls": {
+                        "spotify": "http://open.spotify.com/user/redcomet79"
+                    },
+                    "href": "https://api.spotify.com/v1/users/redcomet79",
+                    "id": "redcomet79",
+                    "type": "user",
+                    "uri": "spotify:user:redcomet79"
+                },
+                "is_local": false,
+                "track": {
+                    "album": {
+                        "album_type": "album",
+                        "available_markets": [
+                            "CA",
+                            "US"
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/7DMHBOZasKAboJFNNV7k4m"
+                        },
+                        "href": "https://api.spotify.com/v1/albums/7DMHBOZasKAboJFNNV7k4m",
+                        "id": "7DMHBOZasKAboJFNNV7k4m",
+                        "images": [
+                            {
+                                "height": 635,
+                                "url": "https://i.scdn.co/image/6e5d825b568ce7f1441f6c8c9e19b531202acdf9",
+                                "width": 640
+                            },
+                            {
+                                "height": 297,
+                                "url": "https://i.scdn.co/image/31e8b49495a856ca8dc346788dd34c6fb6bb7a23",
+                                "width": 300
+                            },
+                            {
+                                "height": 63,
+                                "url": "https://i.scdn.co/image/e45b9eaba3c7a12f32537a43059ecea190f39541",
+                                "width": 64
+                            }
+                        ],
+                        "name": "Devdas - An Adaptation Of Sarat Chandra Chattopadhyay's \"Devdas\" (Ost.)",
+                        "type": "album",
+                        "uri": "spotify:album:7DMHBOZasKAboJFNNV7k4m"
+                    },
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/6WPmTGeeoymoVlXVtsCwz7"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/6WPmTGeeoymoVlXVtsCwz7",
+                            "id": "6WPmTGeeoymoVlXVtsCwz7",
+                            "name": "Kavita Krishnamurthy",
+                            "type": "artist",
+                            "uri": "spotify:artist:6WPmTGeeoymoVlXVtsCwz7"
+                        },
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/0oOet2f43PA68X5RxKobEy",
+                            "id": "0oOet2f43PA68X5RxKobEy",
+                            "name": "Shreya Ghoshal",
+                            "type": "artist",
+                            "uri": "spotify:artist:0oOet2f43PA68X5RxKobEy"
+                        },
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/4PzJg8i4bHh9DQIKt82XZR"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/4PzJg8i4bHh9DQIKt82XZR",
+                            "id": "4PzJg8i4bHh9DQIKt82XZR",
+                            "name": "K.K.",
+                            "type": "artist",
+                            "uri": "spotify:artist:4PzJg8i4bHh9DQIKt82XZR"
+                        }
+                    ],
+                    "available_markets": [
+                        "CA",
+                        "US"
+                    ],
+                    "disc_number": 1,
+                    "duration_ms": 303386,
+                    "explicit": false,
+                    "external_ids": {
+                        "isrc": "INP100300023"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/1UV1ej70vDBIdPUEJ40ZG1"
+                    },
+                    "href": "https://api.spotify.com/v1/tracks/1UV1ej70vDBIdPUEJ40ZG1",
+                    "id": "1UV1ej70vDBIdPUEJ40ZG1",
+                    "name": "Song: Dola Re",
+                    "popularity": 30,
+                    "preview_url": "https://p.scdn.co/mp3-preview/daf15f961dc70e151f1b8b72d890b0c913406bf2",
+                    "track_number": 19,
+                    "type": "track",
+                    "uri": "spotify:track:1UV1ej70vDBIdPUEJ40ZG1"
+                }
+            },
+            {
+                "added_at": "2015-12-22T04:03:51Z",
+                "added_by": {
+                    "external_urls": {
+                        "spotify": "http://open.spotify.com/user/redcomet79"
+                    },
+                    "href": "https://api.spotify.com/v1/users/redcomet79",
+                    "id": "redcomet79",
+                    "type": "user",
+                    "uri": "spotify:user:redcomet79"
+                },
+                "is_local": false,
+                "track": {
+                    "album": {
+                        "album_type": "album",
+                        "available_markets": [
+                            "CA",
+                            "US"
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/7DMHBOZasKAboJFNNV7k4m"
+                        },
+                        "href": "https://api.spotify.com/v1/albums/7DMHBOZasKAboJFNNV7k4m",
+                        "id": "7DMHBOZasKAboJFNNV7k4m",
+                        "images": [
+                            {
+                                "height": 635,
+                                "url": "https://i.scdn.co/image/6e5d825b568ce7f1441f6c8c9e19b531202acdf9",
+                                "width": 640
+                            },
+                            {
+                                "height": 297,
+                                "url": "https://i.scdn.co/image/31e8b49495a856ca8dc346788dd34c6fb6bb7a23",
+                                "width": 300
+                            },
+                            {
+                                "height": 63,
+                                "url": "https://i.scdn.co/image/e45b9eaba3c7a12f32537a43059ecea190f39541",
+                                "width": 64
+                            }
+                        ],
+                        "name": "Devdas - An Adaptation Of Sarat Chandra Chattopadhyay's \"Devdas\" (Ost.)",
+                        "type": "album",
+                        "uri": "spotify:album:7DMHBOZasKAboJFNNV7k4m"
+                    },
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/70B80Lwx2sxti0M1Ng9e8K",
+                            "id": "70B80Lwx2sxti0M1Ng9e8K",
+                            "name": "Udit Narayan",
+                            "type": "artist",
+                            "uri": "spotify:artist:70B80Lwx2sxti0M1Ng9e8K"
+                        },
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/1gHVDWrG6hVra3ZxV7mQWd"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/1gHVDWrG6hVra3ZxV7mQWd",
+                            "id": "1gHVDWrG6hVra3ZxV7mQWd",
+                            "name": "Vinod Rathod",
+                            "type": "artist",
+                            "uri": "spotify:artist:1gHVDWrG6hVra3ZxV7mQWd"
+                        },
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/0oOet2f43PA68X5RxKobEy",
+                            "id": "0oOet2f43PA68X5RxKobEy",
+                            "name": "Shreya Ghoshal",
+                            "type": "artist",
+                            "uri": "spotify:artist:0oOet2f43PA68X5RxKobEy"
+                        }
+                    ],
+                    "available_markets": [
+                        "CA",
+                        "US"
+                    ],
+                    "disc_number": 1,
+                    "duration_ms": 233520,
+                    "explicit": false,
+                    "external_ids": {
+                        "isrc": "INP100300026"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/2ElF3Y1VDug0KdxVa320LS"
+                    },
+                    "href": "https://api.spotify.com/v1/tracks/2ElF3Y1VDug0KdxVa320LS",
+                    "id": "2ElF3Y1VDug0KdxVa320LS",
+                    "name": "Song: Chalak Chalak",
+                    "popularity": 22,
+                    "preview_url": "https://p.scdn.co/mp3-preview/72f88f480d4dbafff6b167e48c60d71f5223832e",
+                    "track_number": 22,
+                    "type": "track",
+                    "uri": "spotify:track:2ElF3Y1VDug0KdxVa320LS"
+                }
+            },
+            {
+                "added_at": "2015-12-22T04:04:21Z",
+                "added_by": {
+                    "external_urls": {
+                        "spotify": "http://open.spotify.com/user/redcomet79"
+                    },
+                    "href": "https://api.spotify.com/v1/users/redcomet79",
+                    "id": "redcomet79",
+                    "type": "user",
+                    "uri": "spotify:user:redcomet79"
+                },
+                "is_local": false,
+                "track": {
+                    "album": {
+                        "album_type": "album",
+                        "available_markets": [
+                            "AD",
+                            "AR",
+                            "AT",
+                            "AU",
+                            "BE",
+                            "BG",
+                            "BO",
+                            "BR",
+                            "CA",
+                            "CH",
+                            "CL",
+                            "CO",
+                            "CR",
+                            "CY",
+                            "CZ",
+                            "DE",
+                            "DK",
+                            "DO",
+                            "EC",
+                            "EE",
+                            "ES",
+                            "FI",
+                            "FR",
+                            "GB",
+                            "GR",
+                            "GT",
+                            "HK",
+                            "HN",
+                            "HU",
+                            "IE",
+                            "IS",
+                            "IT",
+                            "LI",
+                            "LT",
+                            "LU",
+                            "LV",
+                            "MC",
+                            "MT",
+                            "MX",
+                            "MY",
+                            "NI",
+                            "NL",
+                            "NO",
+                            "NZ",
+                            "PA",
+                            "PE",
+                            "PH",
+                            "PL",
+                            "PT",
+                            "PY",
+                            "RO",
+                            "SE",
+                            "SG",
+                            "SI",
+                            "SK",
+                            "SV",
+                            "TR",
+                            "TW",
+                            "US",
+                            "UY"
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/63LhgLdQLjtgk1jLrLW2ql"
+                        },
+                        "href": "https://api.spotify.com/v1/albums/63LhgLdQLjtgk1jLrLW2ql",
+                        "id": "63LhgLdQLjtgk1jLrLW2ql",
+                        "images": [
+                            {
+                                "height": 600,
+                                "url": "https://i.scdn.co/image/a3bdaba00d2d600ec774f4f14adb55831bc45419",
+                                "width": 600
+                            },
+                            {
+                                "height": 300,
+                                "url": "https://i.scdn.co/image/cd7dcdaa852e6232e3164f6d596a98169a1fa658",
+                                "width": 300
+                            },
+                            {
+                                "height": 64,
+                                "url": "https://i.scdn.co/image/9a94f98b82e8ae5edacc85bd8dc2989c2eeb4e10",
+                                "width": 64
+                            }
+                        ],
+                        "name": "Ek Villain (Original Motion Picture Soundtrack)",
+                        "type": "album",
+                        "uri": "spotify:album:63LhgLdQLjtgk1jLrLW2ql"
+                    },
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/0E02VcvA5p1ndkLdqWD5JB"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/0E02VcvA5p1ndkLdqWD5JB",
+                            "id": "0E02VcvA5p1ndkLdqWD5JB",
+                            "name": "Ankit Tiwari",
+                            "type": "artist",
+                            "uri": "spotify:artist:0E02VcvA5p1ndkLdqWD5JB"
+                        }
+                    ],
+                    "available_markets": [
+                        "AD",
+                        "AR",
+                        "AT",
+                        "AU",
+                        "BE",
+                        "BG",
+                        "BO",
+                        "BR",
+                        "CA",
+                        "CH",
+                        "CL",
+                        "CO",
+                        "CR",
+                        "CY",
+                        "CZ",
+                        "DE",
+                        "DK",
+                        "DO",
+                        "EC",
+                        "EE",
+                        "ES",
+                        "FI",
+                        "FR",
+                        "GB",
+                        "GR",
+                        "GT",
+                        "HK",
+                        "HN",
+                        "HU",
+                        "IE",
+                        "IS",
+                        "IT",
+                        "LI",
+                        "LT",
+                        "LU",
+                        "LV",
+                        "MC",
+                        "MT",
+                        "MX",
+                        "MY",
+                        "NI",
+                        "NL",
+                        "NO",
+                        "NZ",
+                        "PA",
+                        "PE",
+                        "PH",
+                        "PL",
+                        "PT",
+                        "PY",
+                        "RO",
+                        "SE",
+                        "SG",
+                        "SI",
+                        "SK",
+                        "SV",
+                        "TR",
+                        "TW",
+                        "US",
+                        "UY"
+                    ],
+                    "disc_number": 1,
+                    "duration_ms": 340951,
+                    "explicit": false,
+                    "external_ids": {
+                        "isrc": "USLZJ1572022"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/3UXxkWgsYzyohVGseNUVa0"
+                    },
+                    "href": "https://api.spotify.com/v1/tracks/3UXxkWgsYzyohVGseNUVa0",
+                    "id": "3UXxkWgsYzyohVGseNUVa0",
+                    "name": "Galliyan",
+                    "popularity": 42,
+                    "preview_url": "https://p.scdn.co/mp3-preview/566270d36ada4598780f48a26ac6a7892611286e",
+                    "track_number": 1,
+                    "type": "track",
+                    "uri": "spotify:track:3UXxkWgsYzyohVGseNUVa0"
+                }
+            },
+            {
+                "added_at": "2015-12-22T04:11:12Z",
+                "added_by": {
+                    "external_urls": {
+                        "spotify": "http://open.spotify.com/user/redcomet79"
+                    },
+                    "href": "https://api.spotify.com/v1/users/redcomet79",
+                    "id": "redcomet79",
+                    "type": "user",
+                    "uri": "spotify:user:redcomet79"
+                },
+                "is_local": false,
+                "track": {
+                    "album": {
+                        "album_type": "album",
+                        "available_markets": [
+                            "AD",
+                            "AR",
+                            "AT",
+                            "AU",
+                            "BE",
+                            "BG",
+                            "BO",
+                            "BR",
+                            "CA",
+                            "CH",
+                            "CL",
+                            "CO",
+                            "CR",
+                            "CY",
+                            "CZ",
+                            "DE",
+                            "DK",
+                            "DO",
+                            "EC",
+                            "EE",
+                            "ES",
+                            "FI",
+                            "FR",
+                            "GB",
+                            "GR",
+                            "GT",
+                            "HK",
+                            "HN",
+                            "HU",
+                            "IE",
+                            "IS",
+                            "IT",
+                            "LI",
+                            "LT",
+                            "LU",
+                            "LV",
+                            "MC",
+                            "MT",
+                            "MX",
+                            "MY",
+                            "NI",
+                            "NL",
+                            "NO",
+                            "NZ",
+                            "PA",
+                            "PE",
+                            "PH",
+                            "PL",
+                            "PT",
+                            "PY",
+                            "RO",
+                            "SE",
+                            "SG",
+                            "SI",
+                            "SK",
+                            "SV",
+                            "TR",
+                            "TW",
+                            "US",
+                            "UY"
+                        ],
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/album/4He2rBGaA8eNUvB3B9QRYK"
+                        },
+                        "href": "https://api.spotify.com/v1/albums/4He2rBGaA8eNUvB3B9QRYK",
+                        "id": "4He2rBGaA8eNUvB3B9QRYK",
+                        "images": [
+                            {
+                                "height": 640,
+                                "url": "https://i.scdn.co/image/2ecc394a642cbc42b65910e226ba3a173f8297e0",
+                                "width": 640
+                            },
+                            {
+                                "height": 300,
+                                "url": "https://i.scdn.co/image/fed87c0e98f5b32db8e4d02856810900823ce3e2",
+                                "width": 300
+                            },
+                            {
+                                "height": 64,
+                                "url": "https://i.scdn.co/image/5b9cb044ed77a2174c33941d61e6ace41de12ffd",
+                                "width": 64
+                            }
+                        ],
+                        "name": "Ram-Leela (Original Motion Picture Soundtrack)",
+                        "type": "album",
+                        "uri": "spotify:album:4He2rBGaA8eNUvB3B9QRYK"
+                    },
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/16IWQKGP5XiiKxalXZuIMZ"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/16IWQKGP5XiiKxalXZuIMZ",
+                            "id": "16IWQKGP5XiiKxalXZuIMZ",
+                            "name": "Bhoomi Trivedi",
+                            "type": "artist",
+                            "uri": "spotify:artist:16IWQKGP5XiiKxalXZuIMZ"
+                        }
+                    ],
+                    "available_markets": [
+                        "AD",
+                        "AR",
+                        "AT",
+                        "AU",
+                        "BE",
+                        "BG",
+                        "BO",
+                        "BR",
+                        "CA",
+                        "CH",
+                        "CL",
+                        "CO",
+                        "CR",
+                        "CY",
+                        "CZ",
+                        "DE",
+                        "DK",
+                        "DO",
+                        "EC",
+                        "EE",
+                        "ES",
+                        "FI",
+                        "FR",
+                        "GB",
+                        "GR",
+                        "GT",
+                        "HK",
+                        "HN",
+                        "HU",
+                        "IE",
+                        "IS",
+                        "IT",
+                        "LI",
+                        "LT",
+                        "LU",
+                        "LV",
+                        "MC",
+                        "MT",
+                        "MX",
+                        "MY",
+                        "NI",
+                        "NL",
+                        "NO",
+                        "NZ",
+                        "PA",
+                        "PE",
+                        "PH",
+                        "PL",
+                        "PT",
+                        "PY",
+                        "RO",
+                        "SE",
+                        "SG",
+                        "SI",
+                        "SK",
+                        "SV",
+                        "TR",
+                        "TW",
+                        "US",
+                        "UY"
+                    ],
+                    "disc_number": 1,
+                    "duration_ms": 244349,
+                    "explicit": false,
+                    "external_ids": {
+                        "isrc": "FR6V82214373"
+                    },
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/3EZVHjkatETSnJpVOs6Mnw"
+                    },
+                    "href": "https://api.spotify.com/v1/tracks/3EZVHjkatETSnJpVOs6Mnw",
+                    "id": "3EZVHjkatETSnJpVOs6Mnw",
+                    "name": "Ram Chahe Leela",
+                    "popularity": 41,
+                    "preview_url": "https://p.scdn.co/mp3-preview/051a7fac349a48b81f164b9262be505b505d8ca2",
+                    "track_number": 9,
+                    "type": "track",
+                    "uri": "spotify:track:3EZVHjkatETSnJpVOs6Mnw"
+                }
+            }
+        ],
+        "limit": 100,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 7
+    },
+    "type": "playlist",
+    "uri": "spotify:user:redcomet79:playlist:503HzKH74uYiK6TJmU868m"
+}
