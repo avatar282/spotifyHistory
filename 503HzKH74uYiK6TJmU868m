@@ -1,1 +1,90 @@
-null
+{
+    "id": "503HzKH74uYiK6TJmU868m",
+    "name": "bollywood",
+    "tracks": {
+        "items": [
+            {
+                "track": {
+                    "album": {
+                        "name": "Bajirao Mastani (Original Motion Picture Soundtrack)"
+                    },
+                    "id": "7EvAlx0lOLbZgCKH50wnUU",
+                    "name": "Malhari"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Bajirao Mastani (Original Motion Picture Soundtrack)"
+                    },
+                    "id": "7IP72Pw6reOTDZrpLVtOFT",
+                    "name": "Deewani Mastani"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Devdas - An Adaptation Of Sarat Chandra Chattopadhyay's \"Devdas\" (Ost.)"
+                    },
+                    "id": "5n7KWx7UkcKJUB8GvJCYqj",
+                    "name": "Song: Silsila Ye Chahat Ka"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Devdas - An Adaptation Of Sarat Chandra Chattopadhyay's \"Devdas\" (Ost.)"
+                    },
+                    "id": "1UV1ej70vDBIdPUEJ40ZG1",
+                    "name": "Song: Dola Re"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Devdas - An Adaptation Of Sarat Chandra Chattopadhyay's \"Devdas\" (Ost.)"
+                    },
+                    "id": "2ElF3Y1VDug0KdxVa320LS",
+                    "name": "Song: Chalak Chalak"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Ek Villain (Original Motion Picture Soundtrack)"
+                    },
+                    "id": "3UXxkWgsYzyohVGseNUVa0",
+                    "name": "Galliyan"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Ram-Leela (Original Motion Picture Soundtrack)"
+                    },
+                    "id": "3EZVHjkatETSnJpVOs6Mnw",
+                    "name": "Ram Chahe Leela"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Shankar Mahadevan - Fast Beat - Kannada Hits 2016"
+                    },
+                    "id": "4RIyl0Q4nx06XAlnJZ6rRE",
+                    "name": "Dhoom Dhamaka - From \"Belli\""
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Dhoom : 3 (Original Motion Picture Soundtrack)"
+                    },
+                    "id": "3UySEf4STA8n0pIpvKXLQ7",
+                    "name": "Kamli"
+                }
+            }
+        ],
+        "next": null
+    }
+}
