@@ -1,1 +1,279 @@
-{}
+{
+    "id": "5m6NvJHAMgW2V79QyKEpuf",
+    "name": "Discover Weekly",
+    "tracks": {
+        "items": [
+            {
+                "track": {
+                    "album": {
+                        "name": "Cher's Greatest Hits: 1965-1992"
+                    },
+                    "id": "0u5jDSMOadKqBXotzwfvnb",
+                    "name": "Dead Ringer For Love"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "The Best Of Little Feat"
+                    },
+                    "id": "0knbG4mlDoVdNu04pC6UZ0",
+                    "name": "Let It Roll - 2006 Remastered Version"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "They Only Come Out At Night"
+                    },
+                    "id": "4MlXFjRO6N7NXvMqPlH35o",
+                    "name": "Free Ride"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Lo Mejor del Rock de los 80: Vol. 2"
+                    },
+                    "id": "4anWvFDxbPgVnGgVjcVpvH",
+                    "name": "For Those About To Rock"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Permission To Land"
+                    },
+                    "id": "756CJtQRFSxEx9jV4P9hpA",
+                    "name": "I Believe In A Thing Called Love"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Ten"
+                    },
+                    "id": "6QewNVIDKdSl8Y3ycuHIei",
+                    "name": "Even Flow"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Invisible Touch"
+                    },
+                    "id": "2oiMNaVCul7qmMzpRStjCg",
+                    "name": "Land Of Confusion - 2007 Digital Remaster"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Aldo Nova"
+                    },
+                    "id": "1zrba5qe6xkC84AlbXNa6u",
+                    "name": "Fantasy"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Moontan"
+                    },
+                    "id": "20aASiwfsbiLlaJxLiC0PQ",
+                    "name": "Radar Love"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Document (R.E.M. No. 5)"
+                    },
+                    "id": "2oSpQ7QtIKTNFfA08Cy0ku",
+                    "name": "It's the End of the World As We Know It (And I Feel Fine)"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Adem"
+                    },
+                    "id": "7bDI0xPdgGJIq6j8Gueqhj",
+                    "name": "Ren Lenny Ren"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Combat Rock"
+                    },
+                    "id": "39shmbIHICJ2Wxnk1fPSdz",
+                    "name": "Should I Stay or Should I Go - Remastered"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Ring Of Fire: The Best Of Johnny Cash"
+                    },
+                    "id": "6YffUZJ2R06kyxyK6onezL",
+                    "name": "Ring of Fire - Mono Version"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Full Moon Fever"
+                    },
+                    "id": "4AiMaeCXwsldpwvA5wu5gM",
+                    "name": "Runnin' Down A Dream"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Surrealistic Pillow"
+                    },
+                    "id": "4uGIJG1jYFonGc4LGp5uQL",
+                    "name": "Somebody to Love"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Songs From The Big Chair (Deluxe)"
+                    },
+                    "id": "5TXAySV8WBjAIMg3lPDCLN",
+                    "name": "Shout"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "G."
+                    },
+                    "id": "0tE1F1Ce8OQuhcfpPSZUPQ",
+                    "name": "Mighty Quinn"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Slippery When Wet (Remastered)"
+                    },
+                    "id": "2fY6tqgrlrg1ky9fgs0t5u",
+                    "name": "Wanted Dead Or Alive"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Persistence Of Time"
+                    },
+                    "id": "62rSF7anVnDAmc9Vnmb7cH",
+                    "name": "Got The Time"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Against All Odds"
+                    },
+                    "id": "0qmpOfDhPzZ0juSD1YuQdy",
+                    "name": "I Love A Rainy Night"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Violator"
+                    },
+                    "id": "2Vx5GB4ALbzdEn4diBCxUk",
+                    "name": "Personal Jesus - Remastered"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "The Best Of The Kentucky Headhunters: Still Pickin'"
+                    },
+                    "id": "3kg9JZz9OiNHRSXVFLKEmN",
+                    "name": "Spirit In The Sky"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Masser Af Succes"
+                    },
+                    "id": "6kYNUA0XmNYrvrB0B3oBKh",
+                    "name": "Det Bedste Til Mig Og Mine Venner"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Born To Be Wild (Best Of....)"
+                    },
+                    "id": "25ttbACknSKxdXAZchsIne",
+                    "name": "Magic Carpet Ride"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Montrose"
+                    },
+                    "id": "6mpAOrpdrq5mJTGo8nrvSO",
+                    "name": "Rock Candy"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Smokin'"
+                    },
+                    "id": "3KG03fcha5gJBLyze9919W",
+                    "name": "30 Days In The Hole"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "90125 (Deluxe Version)"
+                    },
+                    "id": "0GTK6TesV108Jj5D3MHsYb",
+                    "name": "Owner Of A Lonely Heart"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Lita"
+                    },
+                    "id": "0kFM6t9htbB53Dg8frGDGh",
+                    "name": "Kiss Me Deadly"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Doctor, Doctor - The Kulick Sessions"
+                    },
+                    "id": "6ACdUIt655erOINcwZbNf9",
+                    "name": "Doctor, Doctor"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "What I Like About You (And Other Romantic Hits)"
+                    },
+                    "id": "08JKuFJCHJVw1SgHHjwsS9",
+                    "name": "Talking in Your Sleep"
+                }
+            }
+        ],
+        "next": null
+    }
+}
